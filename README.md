@@ -34,7 +34,6 @@ The best model is a **decision stump** – a single split on the most informativ
 - `solar_flare_predictor.ipynb` – full notebook (data loading, encoding, training, evaluation)
 - `solar_flare_tree.joblib` – saved decision tree model
 - `onehot_encoder.joblib` – fitted one‑hot encoder for categorical features
-- `requirements.txt` – Python dependencies
 - `README.md` – this file
 
 ## How to Use
